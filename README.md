@@ -27,7 +27,7 @@ Projeto de API - 3° Semestre de 2022 da Fatec São José dos Campos - VISIONA
 - <a href ="#equipes"> Equipes </a>
 - <a href ="#projeto"> Projeto </a>
 - <a href ="#objetivo"> Objetivo </a>
-- <a href ="#requisito-do-site"> Requisitos do Site </a>
+- <a href ="#requisito-da-aplicação"> Requisitos da Aplicação </a>
 - <a href ="#metodologia"> Metodologia </a>
 - <a href ="#cronograma-e-sprint"> Cronograma e Sprints </a>
 - <a href ="#tecnologia-utilizadas"> Tecnologias Utilizadas </a>
@@ -90,7 +90,7 @@ Projeto de API - 3° Semestre de 2022 da Fatec São José dos Campos - VISIONA
     <td>ST</td>
     <td><a href="https://www.linkedin.com/in/marinaangela/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"></a></td>
     <td><a href="https://github.com/MarinaAraujoMaciel"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px"></a></td>
-    <td>Estável</td>
+    <td>Dominante</td>
   </tr>
   
   
@@ -161,87 +161,41 @@ Apresentar todos os requisitos estabelecidos pelo cliente, atingindo um nível s
 
 # Cronograma e Sprint
 
-- [Cronograma](https://github.com/TechForce-ADS/Projeto_API_TrackCash/blob/main/imagens/cronograma.png)
 
 > Sprint:
 
- <img src = "https://github.com/TechForce-ADS/Projeto_API_TrackCash/blob/main/imagens/Cronograma%20das%20sprints_atualizado.png" alt="sprint" >
- 
- ### <p>:white_check_mark: <a href="https://github.com/TechForce-ADS/Projeto_API_TrackCash/tree/main/codigo/1%C2%BASEM ">Sprint 1</a> - 29/08 - 18/09</p>
- > <p>:white_check_mark:  </p>
- > <p>:white_check_mark:   </p>
- > <p>:white_check_mark:  </p>
- > <p>:white_check_mark:  </p>
- 
- 
- ### <p>:white_check_mark:<a href="https://github.com/TechForce-ADS/Projeto_API_TrackCash/tree/main/codigo/2%C2%BASEM">Sprint 2</a> - 19/09 - 09/10</p>
- > <p>:white_check_mark:  </p>
- > <p>:white_check_mark:  </p>
- > <p>:white_check_mark:  </p>
- > <p>:white_check_mark:  </p>
- > <p>:white_check_mark:  </p>
- > <p>:white_check_mark:  </p>
- 
- 
 
- ### <p>:white_check_mark: <a href="https://github.com/TechForce-ADS/Projeto_API_TrackCash/tree/main/codigo/3%C2%BASprint">Sprint 3</a> - 13/10 - 06/11</p>
- > <p>:white_check_mark:  </p>
- > <p>:white_check_mark: </p>
- > <p>:white_check_mark: </p>
- > <p>:white_check_mark:  </p>
- > <p>:white_check_mark:   </p>
  
-
-  ### <p>:white_check_mark: <a href="https://github.com/TechForce-ADS/Projeto_API_TrackCash/tree/main/codigo/4%C2%BASprint">Sprint 4</a> - 07/11 - 27/11</p>
- > <p>:white_check_mark:  </p>
- > <p>:white_check_mark:  </p>
- > <p>:white_check_mark:   </p>
- > <p>:white_check_mark:   </p>
- > <p>:white_check_mark:  </p>
+  <a href=" ">Sprint 1</a> - 13/03 - 02/04</p>
+  <a href=" ">Sprint 2</a> - 03/04 - 23/04</p>
+  <a href=" ">Sprint 3</a> - 24/04 - 14/05</p>
+  <a href=" ">Sprint 4</a> - 15/05 - 04/06</p>
+ 
+ 
+ 
+ 
  
 # Tecnologia Utilizadas
 
-<img src ="https://github.com/TechForce-ADS/Projeto_API_TrackCash/blob/main/imagens/tecnologia%20.png"/>
+ 
 
 ## 
 
 
-> - JAVA Desktop (Linguagem de programação)
-> - MySQL (Banco de Dados)
-> - Canvas (Protótipo, interface)
+> - NodeJS (Back-end)
+> - VueJS (Front-end)
+> - Postgres (Banco de Dados)
+> - Canva (Protótipo)
 > - Pacote Office (Documentação)
-> - Git (Versionamento)
+> - GCP (Google Cloud Platform)
+> - Docker
 > - GitHub (Repositório)
-> - Discord (Comunicação do grupo)
+> - Slack (Comunicação do Po com a empresa)
 
 
 # Backlog do Produto 
-<img src = "https://github.com/TechForce-ADS/Projeto_API_TrackCash/blob/main/imagens/backlog.png" />
-
-# Sprint
-
-- > :white_check_mark:<a href="https://github.com/TechForce-ADS/Projeto_API_TrackCash/tree/main/imagens/prototipo#prot%C3%B3tipo"> Protótipo do projeto</a>
-
-- > :white_check_mark: <a href="https://github.com/TechForce-ADS/Projeto_API_TrackCash/tree/main/sprints#1%C2%BA-sprint">1º Sprint</a>
-- >:white_check_mark: <a href="https://github.com/TechForce-ADS/Projeto_API_TrackCash/tree/main/sprints#2%C2%BA-sprint">2º Sprint</a>
-- >:white_check_mark: <a href="https://github.com/TechForce-ADS/Projeto_API_TrackCash/tree/main/sprints#3%C2%BA-sprint">3º Sprint
-- >:white_check_mark:<a href="https://github.com/TechForce-ADS/Projeto_API_TrackCash/tree/main/sprints#4%C2%BA-sprint"> 4º Sprint
-
-
+# Sprint 
 # Burndown do Projeto
 
 
-
-> 1° Sprint:
-<img src = "https://github.com/TechForce-ADS/Projeto_API_TrackCash/blob/main/imagens/burndown%201%C2%BASprint.png" />
-
-> 2º Sprint:
-<img src= "https://github.com/TechForce-ADS/Projeto_API_TrackCash/blob/main/imagens/burndown%202%C2%BASprint.png"/>
-
-> 3º Sprint:
-<img src =  "https://github.com/TechForce-ADS/Projeto_API_TrackCash/blob/main/imagens/burndow%203%C2%BASprint.png"/>
  
-> 4º Sprint:
-<img src = "https://github.com/TechForce-ADS/Projeto_API_TrackCash/blob/main/imagens/burndown%204%C2%BASprint.png" />
-
-

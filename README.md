@@ -144,7 +144,7 @@ Apresentar todos os requisitos estabelecidos pelo cliente, atingindo um nível s
 - Editar usuários cadastrados
 - Visualizar usuários cadastrados em forma de lista (nome, perfil, status, ativo/inativo)
 - Desativar usuário (exclusão)
-- Funcionalidade 'ESqueci minha senha'
+- Funcionalidade 'Esqueci minha senha'
 
 
 > Requisitos não Funcionais:

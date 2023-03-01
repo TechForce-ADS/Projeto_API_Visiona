@@ -36,7 +36,8 @@ Projeto de API - 3° Semestre de 2022 da Fatec São José dos Campos - VISIONA
 
 # Conhecimento exigido 
 
-> Dashboard Web de alta complexidade
+> 
+- Dashboard Web de alta complexidade
 - Levantar e registrar Requisitos usando Métodos Ágeis e Tradicionais 
 - Documentação DoR e Dod
 - Modelar Processos de Negocios usando VPC e BPMN

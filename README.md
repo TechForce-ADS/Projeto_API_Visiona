@@ -12,11 +12,11 @@ Projeto de API - 3° Semestre de 2022 da Fatec São José dos Campos - VISIONA
     <td> Contato Cliente </td>
   </tr>
   <tr>
-    <td> Luiz </td>
+    <td> Luiz Claudio </td>
     <td> 3º ADS (Análise e Desenvolvimento de Sistemas) </td>
     <td> Cláudio Etelvino de Lima</td>
     <td> Fernando Masanori  </td>
-    <td>  </td>
+    <td> luiz.holanda@visionaespacial.com.br </td>
   </tr>
 </table>
 </br>
@@ -96,10 +96,10 @@ Projeto de API - 3° Semestre de 2022 da Fatec São José dos Campos - VISIONA
   
   
   <tr>
-    <td>Rita Hecht</td>
+    <td>Pedro Seraggi/td>
     <td>ST</td>
      <td><a href=""><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"></a></td>
-    <td><a href="https://github.com/ritahecht"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px"></a></td>
+    <td><a href="https://github.com/PedroSeraggi"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px"></a></td>
     <td>Estável</td>
   </tr>
   

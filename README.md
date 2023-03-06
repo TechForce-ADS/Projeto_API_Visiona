@@ -178,6 +178,8 @@ Apresentar todos os requisitos estabelecidos pelo cliente, atingindo um nível s
  
 # Tecnologia Utilizadas
 
+
+<img src ="https://github.com/TechForce-ADS/Projeto_API_TrackCash/blob/main/imagens/tecnologia%20.png"/>
  
 
 ## 
@@ -195,6 +197,7 @@ Apresentar todos os requisitos estabelecidos pelo cliente, atingindo um nível s
 
 
 # Backlog do Produto 
+<img src = "canva" />
 # Sprint 
 # Burndown do Projeto
 

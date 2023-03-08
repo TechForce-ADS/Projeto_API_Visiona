@@ -179,7 +179,7 @@ Apresentar todos os requisitos estabelecidos pelo cliente, atingindo um nível s
 # Tecnologia Utilizadas
 
 
-<img src ="https://github.com/TechForce-ADS/Projeto_API_TrackCash/blob/main/imagens/tecnologia%20.png"/>
+<img src ="https://github.com/TechForce-ADS/imagens/blob/main/tec_uti_visiona.jpeg"/>
  
 
 ## 

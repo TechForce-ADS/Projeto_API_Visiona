@@ -162,17 +162,43 @@ Apresentar todos os requisitos estabelecidos pelo cliente, atingindo um nível s
 
 # Cronograma e Sprint
 
+- [Cronograma](https://github.com/TechForce-ADS/Projeto_API_TrackCash/blob/main/imagens/cronograma.png)
 
 > Sprint:
 
+ <img src = "https://github.com/TechForce-ADS/Projeto_API_TrackCash/blob/main/imagens/Cronograma%20das%20sprints_atualizado.png" alt="sprint" >
+ 
+ ### <p>:white_check_mark: <a href="https://github.com/TechForce-ADS/Projeto_API_TrackCash/tree/main/codigo/1%C2%BASEM ">Sprint 1</a> - 29/08 - 18/09</p>
+ > <p>:white_check_mark: Criar tela de Login</p>
+ > <p>:white_check_mark: criar tela Inicial da tela de cadastro de canais </p>
+ > <p>:white_check_mark: Banco de dados para o login</p>
+ > <p>:white_check_mark: Banco de dados para os canais</p>
+ 
+ 
+ ### <p>:white_check_mark:<a href="https://github.com/TechForce-ADS/Projeto_API_TrackCash/tree/main/codigo/2%C2%BASEM">Sprint 2</a> - 19/09 - 09/10</p>
+ > <p>:white_check_mark: Criar tela de editar canais</p>
+ > <p>:white_check_mark: Criar tela de Visualizar todos os canais</p>
+ > <p>:white_check_mark: Canco de dados Login e de Canais</p>
+ > <p>:white_check_mark: Campo de Pesquisa</p>
+ > <p>:white_check_mark: Excluir canais</p>
+ > <p>:white_check_mark: Editar canais</p>
+ 
+ 
 
+ ### <p>:white_check_mark: <a href="https://github.com/TechForce-ADS/Projeto_API_TrackCash/tree/main/codigo/3%C2%BASprint">Sprint 3</a> - 13/10 - 06/11</p>
+ > <p>:white_check_mark: iniciar o design do sistema</p>
+ > <p>:white_check_mark:Criar banco de dados para Administrador </p>
+ > <p>:white_check_mark:Iniciar página de Administrador</p>
+ > <p>:white_check_mark: Ajustar funcionalidades das demais paginas</p>
+ > <p>:white_check_mark: Documentação (GITHUB) </p>
  
-  <a href=" ">Sprint 1</a> - 13/03 - 02/04</p>
-  <a href=" ">Sprint 2</a> - 03/04 - 23/04</p>
-  <a href=" ">Sprint 3</a> - 24/04 - 14/05</p>
-  <a href=" ">Sprint 4</a> - 15/05 - 04/06</p>
- 
- 
+
+  ### <p>:white_check_mark: <a href="https://github.com/TechForce-ADS/Projeto_API_TrackCash/tree/main/codigo/4%C2%BASprint">Sprint 4</a> - 07/11 - 27/11</p>
+ > <p>:white_check_mark: Criar botões para voltar ao início e sair da sua conta</p>
+ > <p>:white_check_mark: finalizar página de Administrador </p>
+ > <p>:white_check_mark: Finalizar documentação </p>
+ > <p>:white_check_mark: Ajustes das tabelas de ADM e Usuário </p>
+ > <p>:white_check_mark: Pesquisas com filtros</p>
  
  
  
@@ -197,8 +223,19 @@ Apresentar todos os requisitos estabelecidos pelo cliente, atingindo um nível s
 
 
 # Backlog do Produto 
-<img src = "canva" />
-# Sprint 
+<img src = "" />
+
+
+
+# Sprint
+
+- > :white_check_mark:<a href=" https://github.com/TechForce-ADS/Projeto_API_Visiona/blob/main/Prototipo"> Protótipo do projeto</a>
+
+- > :white_check_mark: <a href=" https://github.com/TechForce-ADS/Projeto_API_Visiona/blob/main/Sprints#1%C2%BA">1º Sprint</a>
+- >:white_check_mark: <a href=" ">2º Sprint</a>
+- >:white_check_mark: <a href=" ">3º Sprint
+- >:white_check_mark:<a href=" "> 4º Sprint
+  
 # Burndown do Projeto
 
 

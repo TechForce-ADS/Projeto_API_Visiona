@@ -162,7 +162,7 @@ Apresentar todos os requisitos estabelecidos pelo cliente, atingindo um nível s
 
 # Cronograma e Sprint
 
-- [Cronograma](https://github.com/TechForce-ADS/Projeto_API_TrackCash/blob/main/imagens/cronograma.png)
+<img src = "https://github.com/TechForce-ADS/imagens/blob/main/calendario.jpg" />
 
 > Sprint:
 

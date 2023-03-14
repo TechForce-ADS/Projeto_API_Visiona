@@ -205,14 +205,14 @@ Apresentar todos os requisitos estabelecidos pelo cliente, atingindo um nível s
 # Tecnologia Utilizadas
 
 
-<img src ="https://github.com/TechForce-ADS/imagens/blob/main/tec_uti_visiona.jpeg"/>
+<img src ="https://github.com/TechForce-ADS/imagens/blob/main/tecnologias-visiona.jpg"/>
  
 
 ## 
 
 
 > - NodeJS (Back-end)
-> - VueJS (Front-end)
+> - React (Front-end)
 > - Postgres (Banco de Dados)
 > - Canva (Protótipo)
 > - Pacote Office (Documentação)
@@ -223,7 +223,7 @@ Apresentar todos os requisitos estabelecidos pelo cliente, atingindo um nível s
 
 
 # Backlog do Produto 
-<img src = "https://github.com/TechForce-ADS/imagens/blob/main/backlog.jpg" />
+<img src = "https://github.com/TechForce-ADS/imagens/blob/main/cronograma-s-visiona.jpg" />
 
 
 

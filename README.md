@@ -96,7 +96,7 @@ Projeto de API - 3° Semestre de 2022 da Fatec São José dos Campos - VISIONA
   
   
   <tr>
-    <td>Pedro Seraggi/td>
+    <td>Pedro Seraggi</td>
     <td>ST</td>
      <td><a href=""><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"></a></td>
     <td><a href="https://github.com/PedroSeraggi"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px"></a></td>
